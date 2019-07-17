@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <?php 
 include('function/functions.php');
-ifnn dksffdsfjskdjf
+
 ?>
 <html>
 <head>
